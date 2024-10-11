@@ -49,7 +49,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -72,16 +72,16 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "",
     "required": false,
-    "value": "𝐊𝐞𝐢𝐭𝐡"
+    "value": "EVERGREEN"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254796299159"
+    "value": "2349039996138"
   },
     "WARN_COUNT":
   {
